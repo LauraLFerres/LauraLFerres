@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-label="Laura — Estudante de Análise e Desenvolvimento de Sistemas na FIAP">
+<defs><linearGradient id="g"><stop stop-color="#304a94"/><stop offset=".55" stop-color="#6651a4"/><stop offset="1" stop-color="#a26493"/></linearGradient></defs>
+<path fill="url(#g)" d="M0 0h1200v226Q900 203 600 227T0 224Z"/>
+<g fill="none" stroke="#fff" opacity=".13"><circle cx="1070" cy="70" r="115"/><circle cx="1070" cy="70" r="82"/><path d="m90 90-30 30 30 30m50-60 30 30-30 30m-20-70-15 80" stroke-width="5"/></g>
+<text x="600" y="112" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-weight="700" font-size="58">Laura</text>
+<text x="600" y="155" text-anchor="middle" fill="#f3ecff" font-family="Arial, sans-serif" font-size="23">Análise e Desenvolvimento de Sistemas · FIAP</text>
+<text x="600" y="190" text-anchor="middle" fill="#e6dcff" font-family="Arial, sans-serif" font-size="17">Aprendendo e construindo meu caminho na tecnologia</text>
+</svg>
