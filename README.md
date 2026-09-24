@@ -60,9 +60,10 @@ Unidade Paulista · Graduação em andamento
 
   <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=qw1jutehi2x6ktbjpi0da0s0j&amp;theme=transparent&amp;duration=1&amp;profile=off&amp;username=off&amp;footer=wave&amp;accent_color=45576e&amp;logo_color=5f86c4" alt="Spotify recently played" width="400" />
 </a>
-  <img src="./assets/tumblr_5e4e240dede768469a2aa47d81f4306a_9f8c31f9_250.gif" alt="Spotify recently played" width="40" align="left" />
+  <img src="./assets/tumblr_5e4e240dede768469a2aa47d81f4306a_9f8c31f9_250.gif" alt="" width="40" align="left" />
+  
+  <img src="./assets/tumblr_fc3ec9e03abdd6085ac78f69dfb47053_421684de_1280.png" alt="" width="150" align="center-right" />
 </a>
-</a>
-  <img src="./assets/tumblr_fc3ec9e03abdd6085ac78f69dfb47053_421684de_1280.png" alt="Spotify recently played" width="150" align="center-right" />
-</a>
+</p>
+
 </p>
